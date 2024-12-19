@@ -30,6 +30,15 @@
       "static/chunks/839-e26837c81dbaa185.js",
       "static/chunks/app/blog/post/[id]/page-0f955e26131f3384.js"
     ],
+    "/news/page": [
+      "static/chunks/webpack-7b46cfe58a228cd3.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-d0ce273129c20c3d.js",
+      "static/chunks/main-app-4973c47e2f31e83c.js",
+      "static/chunks/839-e26837c81dbaa185.js",
+      "static/chunks/789-c5a90bb3a379bd05.js",
+      "static/chunks/app/news/page-56145b2049a9cc0b.js"
+    ],
     "/page": [
       "static/chunks/webpack-7b46cfe58a228cd3.js",
       "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
