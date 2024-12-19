@@ -12,6 +12,9 @@ export default function Home() {
       <div>
         <Link href="/about">About us</Link>
       </div>
+      <div>
+        <Link href="/news">news</Link>
+      </div>
     </div>
   );
 }
