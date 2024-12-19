@@ -1,4 +1,4 @@
-const BLOG_URL = 'https://multi-zones-app-58jc.vercel.app';
+const BLOG_URL = 'https://remote-app-two.vercel.app';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

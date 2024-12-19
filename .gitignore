@@ -38,3 +38,7 @@ next-env.d.ts
 /blog/node_modules
 home/node_modules
 blog/node_modules
+/home/.next
+/blog/.next
+home/.next
+blog/.next
