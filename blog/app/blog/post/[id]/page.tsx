@@ -1,6 +1,6 @@
 import Link from "next/link";
-
-export default function Post({ params: { id } }) {
+export default async function Post({ params }: any) {
+  const { id } = await params;
   return (
     <div>
       <h3>Post #{id}</h3>
