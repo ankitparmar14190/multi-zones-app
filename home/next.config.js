@@ -2,6 +2,9 @@ const BLOG_URL = 'https://remote-app-two.vercel.app';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  images: {
+    domains: ['chhcpportalode4.prod.acquia-sites.com'],
+  },
   async rewrites() {
     return [
       {
