@@ -1,3 +1,5 @@
+import '@element/themes/bayer';
+
 export const metadata = {
   title: "Next.js - Blog Zone",
   description: "Next.js example for Multi Zones",

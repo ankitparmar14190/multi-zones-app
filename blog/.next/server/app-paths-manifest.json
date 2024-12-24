@@ -3,5 +3,6 @@
   "/blog/page": "app/blog/page.js",
   "/blog/post/[id]/page": "app/blog/post/[id]/page.js",
   "/news/page": "app/news/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/test/page": "app/test/page.js"
 }
