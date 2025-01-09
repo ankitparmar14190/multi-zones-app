@@ -1,4 +1,5 @@
 const BLOG_URL = 'https://remote-app-two.vercel.app';
+//const BLOG_URL = 'http://localhost:4000';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

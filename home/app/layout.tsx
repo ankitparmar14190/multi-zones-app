@@ -1,3 +1,4 @@
+import Header from "../components/Header";
 export const metadata = {
   title: "Next.js - Home Zone",
   description: "Next.js example for Multi Zones",
@@ -10,7 +11,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }

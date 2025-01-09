@@ -8,12 +8,14 @@
     "test": "jest --watch"
   },
   "dependencies": {
+    "jsonwebtoken": "^9.0.2",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/jest": "29.5.11",
+    "@types/jsonwebtoken": "^9.0.7",
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
