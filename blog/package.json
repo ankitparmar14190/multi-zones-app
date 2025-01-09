@@ -7,10 +7,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@element/react-button": "^5.44.0",
-    "@element/react-components": "^5.44.0",
-    "@element/react-menu": "^5.44.0",
-    "@element/themes": "^5.45.14",
     "next": "latest",
     "next-drupal": "^1.6.0",
     "react": "^18.2.0",

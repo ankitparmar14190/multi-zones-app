@@ -1,4 +1,5 @@
-import '@element/themes/bayer';
+import './global.css';
+import Header from './components/Header';
 
 export const metadata = {
   title: "Next.js - Blog Zone",
@@ -12,7 +13,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+      <Header />
+        {children}
+      </body>
     </html>
   );
 }
